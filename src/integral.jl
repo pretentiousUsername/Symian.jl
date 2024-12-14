@@ -4,7 +4,7 @@ using Symbolics
 
 using Symbolics: isarraysymbolic, array_term
 
-
+struct AbstractIntegral end # currently doesn't do much, but it might
 
 #associativity = @rule 
 
