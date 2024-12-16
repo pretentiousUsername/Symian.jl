@@ -11,7 +11,8 @@ However, for the time being, Symian will be relegated to basically being a
 parlor trick—it will let you do integrals that you see in college calculus
 courses, and just about nothing else.
 
-
+<!--Should this be split into separate packages, a bit like the DiffRules
+library?-->
 
 [symbolics]: https://github.com/JuliaSymbolics/Symbolics.jl
 
